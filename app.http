@@ -19,7 +19,7 @@ Content-Type: application/json
 ###
 //API 3
 
-GET http://localhost:3000/movies/1/
+GET http://localhost:3000/movies/46/
 
 ###
 
